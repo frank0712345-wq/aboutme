@@ -22,6 +22,7 @@
 	</script>
 </head>
 <body>
+    <?php echo date("Y-m-d") ?>
     <table width="70%">
         <tr>
             <td>
@@ -67,6 +68,5 @@
             </td>
         </tr>
     </table>
-<?php echo date("Y-m-d") ?>
 </body>
 </html>
